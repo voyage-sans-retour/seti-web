@@ -1,0 +1,36 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    background-color:black;
+}
+
+div {
+    background-image:url("https://i.pinimg.com/1200x/1a/ea/25/1aea2578b903c8bc4105fe43e74ba971.jpg");
+    opacity: 0.8;
+    border-style: double;
+    border-color:rgb(201, 224, 245);
+    width:30%;
+    display: block;
+    margin: auto;
+
+}
+
+p {
+    font-family: 'courier new';
+    font-style: bold;
+    color:azure;
+}
+
+h1 {
+    font-family: verdana;
+    font-style: bold;
+    color:azure;
+}
+
+h2 {
+    color: azure;
+    font-style: oblique;
+}
